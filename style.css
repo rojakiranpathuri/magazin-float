@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.article {
+    width:1200px;
+    margin:auto;
+}
+
+.Product{
+    width:1200px;
+    background-color: lightgray;
+    margins : 10px 0 5px 10px;
+    padding : 10px;
+    clear:both;
+}
+
+.emptyspace1{
+    clear:both;
+}
+.anchor{
+    float:right;
+    margin-right: 12px;
+    padding:10px;
+}
+
+.sub-heading3{
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+}
+.forbes{
+    margins: 5px 5px 5px 5px;
+    padding: 5px;
+    float:left;
+}
+.posted{
+    margin: 5px 0 5px 5px;
+    padding: 5px;
+    float:left;
+
+}
+.layout2{
+    margin-top: 30px;
+    margin-left: 10px;
+    clear:both;
+}
+p{
+    line-height: 1.5rem;
+}
+li{
+    list-style:none;
+}
+.layout3{
+    float:left;
+    margin: 5px 10px 5px 5px;
+    padding: 5px;
+    width:850px;
+    clear:both;
+}
+.list1{
+line-height: 1.5rem;
+}
+
+.aside{
+    background-color: aqua;
+    margin-left: 30px;
+    float:right;
+    width:300px;
+    clear:both;
+    border-width:5px ;
+}
+.layout4{
+    float:left;
+    line-height: 1.5rem;
+    margin: 5px 10px 5px 5px;
+}
+
+.footer{
+    clear:both;
+    background-color: gray;
+    text-align: center;
+    padding: 5px;
+}
+
